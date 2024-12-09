@@ -1,0 +1,10 @@
+C:\na Vanio domashniti\GasStation\GasStation\bin\Debug\GasStation.exe.config
+C:\na Vanio domashniti\GasStation\GasStation\bin\Debug\GasStation.exe
+C:\na Vanio domashniti\GasStation\GasStation\bin\Debug\GasStation.pdb
+C:\na Vanio domashniti\GasStation\GasStation\obj\Debug\GasStation.csproj.AssemblyReference.cache
+C:\na Vanio domashniti\GasStation\GasStation\obj\Debug\GasStation.Form1.resources
+C:\na Vanio domashniti\GasStation\GasStation\obj\Debug\GasStation.Properties.Resources.resources
+C:\na Vanio domashniti\GasStation\GasStation\obj\Debug\GasStation.csproj.GenerateResource.cache
+C:\na Vanio domashniti\GasStation\GasStation\obj\Debug\GasStation.csproj.CoreCompileInputs.cache
+C:\na Vanio domashniti\GasStation\GasStation\obj\Debug\GasStation.exe
+C:\na Vanio domashniti\GasStation\GasStation\obj\Debug\GasStation.pdb
